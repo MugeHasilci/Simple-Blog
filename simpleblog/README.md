@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple blog application built with Ruby on Rails.Simple Rails CRUD app.
+Motivation for this project is to help me learn how to integrate Rails.
 
-Things you may want to cover:
 
-* Ruby version
+## Getting started
 
-* System dependencies
+### To set up the project
 
-* Configuration
+1. clone repo to your local machine `git clone https://github.com/MugeHasilci/Simple-Blog/tree/master/simpleblog/app`
+2. Run the command `gem install bundle` (if you don't have bundle already)
+3. When the installation completes, `run bundle`
 
-* Database creation
 
-* Database initialization
+### To run the app
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`rails server` and visit www.localhost:3000 in your browser.
